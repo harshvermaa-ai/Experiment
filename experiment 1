@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>ABES COURSE CURRICULUM</title>
+</head>
+<body>
+
+<h1 align="center">WELCOME TO ABES COLLEGE, GHAZIABAD</h1>
+<p>ABES was established in 2000 and is well reputated about its <b>placements</b> and
+ <b>course curriculums</b> that we are going to discuss today.</p>
+<h2 align="center">Course Curriculum</h2>
+<p>ABES offers variety of courses like:</p>
+<ol>
+<li><b>B.TECH</b></li>
+<dl>Specialisations:
+<dd>CSE Core</dd>
+<dd>AI and ML</dd>
+<dd>Data Science</dd></dl>
+<li>M.TECH</li>
+<li>MBA</li>
+<li>BCA</li>
+<li>MCA</li>
+<li>BBA</li>
+<h4><i>Lets picking up the <u>B.Tech</u> branch (AI and ML) for further information:</i></h4>
+<h2>1st Semester Subjects:</h2>
+<ul>
+<li>Fundamentals of linear algebra and statistics </li>
+<li>Basic Electrical Enginering </li>
+<li>Essentials of AI</li>
+<li>Applied Physics </li>
+<li>Programming in C++</li>
+<li>Environment and Sustainability </li>
+</ul>
+<h3>Labs include:</h3>
+<ul>
+<li>Programming in C++</li>
+<li>Applied Physics</li>
+<li>Electrical</li>
+<li>Web Designing</li>
+</ul>
+<h2>2nd Semester Subjects:</h2>
+<ul>
+<li>Fundamentals of linear algebra and statistics </li>
+<li>Basic Electrical Enginering </li>
+<li>Essentials of AI</li>
+<li>Engineering Chemistry </li>
+<li>Programming in C++</li>
+<li>Environment and Sustainability </li>
+</ul>
+<h3>Labs include:</h3>
+<ul>
+<li>Programming for problem solving(C/C++)</li>
+<li>Engineering Chemistry</li>
+<li>Basic Electrical Engineering</li>
+<li>Workshop Practices</li>
+</ul>
+
+
+</body>
+</html>
